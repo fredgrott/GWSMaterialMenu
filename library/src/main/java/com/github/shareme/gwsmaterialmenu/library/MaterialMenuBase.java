@@ -24,8 +24,8 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.view.animation.Interpolator;
 
-import static com.grottworkshop.gwsmaterialmenu.MaterialMenuDrawable.DEFAULT_SCALE;
-import static com.grottworkshop.gwsmaterialmenu.MaterialMenuDrawable.DEFAULT_TRANSFORM_DURATION;
+import static com.github.shareme.gwsmaterialmenu.library.MaterialMenuDrawable.DEFAULT_SCALE;
+import static com.github.shareme.gwsmaterialmenu.library.MaterialMenuDrawable.DEFAULT_TRANSFORM_DURATION;
 
 /**
  * Base class for ActionBar implementations of {@link MaterialMenuDrawable}
